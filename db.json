@@ -1,5 +1,5 @@
-{
-  "posts": [
+
+[
     {
       "productId": 1,
       "productName": "Leaf Rake",
@@ -51,4 +51,4 @@
       "imageUrl": "assets/images/xbox-controller.png"
     }
   ]
-}
+
